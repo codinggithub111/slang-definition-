@@ -12,7 +12,7 @@ else if (name == "fr")
 else if (name == "cap")
     document.write("to mean someone is lying");
 else if (name == "wsg")
-    document.write("to mean someone is lying");
+    document.write("to mean 'what is good'");
 else if (name == "ong")
     document.write("stands for on god");
 else if (name == "bet")
